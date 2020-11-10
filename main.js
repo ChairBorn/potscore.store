@@ -146,7 +146,7 @@ app.post("/register", function (request, response) {
             "http://localhost:3000/activate/" + email + "/" + activation_code;
           // Change the below mail options
           var mailOptions = {
-            from: '"Your Name / Business name" <xxxxxx@gmail.com>',
+            from: '"PotScore.Store" <yuriyisbusy@gmail.com>',
             to: email,
             subject: "Account Activation Required",
             text:
