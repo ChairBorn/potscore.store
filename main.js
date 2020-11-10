@@ -13,9 +13,9 @@ var secret_key = "HashhMySe$s10N";
 
 // Update the below details with your own MySQL connection details
 var connection = mysql.createConnection({
-  host: "http://173.201.94.88/Correct/API/Jimmy2_Contacts/",
-  user: "josephjlee",
-  password: "Tyler123@",
+  host: "http://107.180.56.84",
+  user: "dev0ps",
+  password: "Dontforget3232",
   database: "JimmyV3",
 });
 
@@ -135,8 +135,8 @@ app.post("/register", function (request, response) {
             port: 465,
             secure: true,
             auth: {
-              user: "xxxxxx@xxxxxx.xxx",
-              pass: "xxxxxx",
+              user: "yuriyisbusy@gmail.com",
+              pass: "lpV&RB99*xBG",
             },
           });
           // Generate a random unique ID
@@ -341,3 +341,4 @@ app.listen(3000);
 // 1. Password hashing secret from Joe's DB, so i can Authenticate users against the DB
 // 2. Password field defined, as for  now i dont see where the Password is defined (what table, column?)
 // 3. See Joe's Authentication Mechanism - see the php code responsible for the authentication to narrow down what column is used for password
+// sql user dev0ps Dontforget3232
