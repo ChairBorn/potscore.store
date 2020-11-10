@@ -1,0 +1,19 @@
+{
+  "name": "potscore.store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev0ps",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.15",
+    "nunjucks": "^3.2.2",
+    "uuid": "^8.3.1"
+  }
+}

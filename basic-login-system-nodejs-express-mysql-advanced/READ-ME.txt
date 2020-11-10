@@ -1,0 +1,29 @@
+Thank you for purchasing from CodeShack!
+
+
+Make sure the following are installed:
+
+node.js
+MySQL Server
+MySQL Workbench
+
+
+Install the following via npm:
+
+npm install -g nodemon - This will allow you to edit your files without restarting the server every time.
+npm install nunjucks
+npm install express --save
+npm install express-session
+npm install mysql
+npm install nodemailer
+npm install uuid
+
+
+Instructions:
+
+1. Execute/upload the nodelogin.sql in MySQL Workbench
+2. Run "Start_Server_(Windows).bat"
+3. Have fun coding!
+
+
+Feel free to contact us at codeshackio@gmail.com if you run into any issues.
