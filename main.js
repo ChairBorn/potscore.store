@@ -339,5 +339,5 @@ app.listen(3000);
 
 // SHIT I NEED TODAY:
 // 1. Password hashing secret from Joe's DB, so i can Authenticate users against the DB
-// 2. Password field defined, as for  now i dont see where the Password is defined
-// 3. See Joe's Authentication Mechanism
+// 2. Password field defined, as for  now i dont see where the Password is defined (what table, column?)
+// 3. See Joe's Authentication Mechanism - see the php code responsible for the authentication to narrow down what column is used for password
