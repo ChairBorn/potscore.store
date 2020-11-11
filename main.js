@@ -13,10 +13,10 @@ var secret_key = "HashhMySe$s10N";
 
 // Update the below details with your own MySQL connection details
 var connection = mysql.createConnection({
-  host: "http://107.180.56.84",
-  user: "dev0ps",
-  password: "Dontforget3232",
-  database: "JimmyV3",
+  host: "localhost",
+  user: "root",
+  password: "",
+  database: "nodelogin",
 });
 
 var app = express();
