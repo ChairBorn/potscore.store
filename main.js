@@ -13,9 +13,9 @@ var secret_key = "HashhMySe$s10N";
 
 // Update the below details with your own MySQL connection details
 var connection = mysql.createConnection({
-  host: "localhost",
-  user: "root",
-  password: "",
+  host: "db-hillproject-do-user-4414800-0.b.db.ondigitalocean.com",
+  user: "doadmin",
+  password: "cw90fhdm34o2xmbz",
   database: "nodelogin",
 });
 
