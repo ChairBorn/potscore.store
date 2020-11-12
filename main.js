@@ -13,8 +13,8 @@ var secret_key = "HashhMySe$s10N";
 
 // Update the below details with your own MySQL connection details
 var connection = mysql.createConnection({
-  host: "localhost",
-  user: "root",
+  host: "138.197.205.80",
+  user: "admin",
   password: "",
   database: "nodelogin",
 });
