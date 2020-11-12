@@ -15,7 +15,7 @@ var secret_key = "HashhMySe$s10N";
 var connection = mysql.createConnection({
   host: "138.197.205.80",
   user: "admin",
-  password: "",
+  password: "9a8c674456bb9376a2ca94831850d49cf1bfbbab22a8783f",
   database: "nodelogin",
 });
 
